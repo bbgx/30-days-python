@@ -25,7 +25,7 @@ Each day's challenge or exercise will be presented in its own directory, with th
 
 Code changes for this repository are not allowed! If you have any advise, please contact me trough session: ```055557eea7a530f2072fa2bfc49ebf7c021bdac699d41b65cd3f8e1699aea90f68```
 
-This repository will follow the following guide:
+## This repository will follow the following guide:
 
 > [30-days-of-python](https://github.com/Asabeneh/30-Days-Of-Python)
 
