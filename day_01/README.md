@@ -1,4 +1,4 @@
-#Exercises in Python
+# Exercises in Python
 This repository contains a Python script with exercises to practice different concepts and data types in Python.
 
 ## Level Two
