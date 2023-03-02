@@ -105,17 +105,17 @@ calculateArea()
 Finally, we define a function called getUserInformation() to prompt the user to enter their first name, last name, country, and age, and then print out their information:
 ```python
 def getUserInformation():
-"""A function that prompts the user to enter their information"""
-first_name = input('What is your first name?\n')
-last_name = input('What is your last name?\n')
-country = input('Where do you live?\n')
-age = input('How old are you?\n')
-print(f"""Check the user information:
-His first name is: {first_name}.
-His last name is: {last_name}.
-He is living in: {country}.
-His age is: {age}.
-Nice to meet you {first_name}!""")
+    """A function that prompts the user to enter their information"""
+    first_name = input('What is your first name?\n')
+    last_name = input('What is your last name?\n')
+    country = input('Where do you live?\n')
+    age = input('How old are you?\n')
+    print(f"""Check the user information:
+    His first name is: {first_name}.
+    His last name is: {last_name}.
+    He is living in: {country}.
+    His age is: {age}.
+    Nice to meet you {first_name}!""")
 
 getUserInformation()
 ```
