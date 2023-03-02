@@ -1,4 +1,5 @@
-# Exercises in Python
+# 30 Days of Python Programming
+## Day 1: Exercises
 This repository contains a Python script with exercises to practice different concepts and data types in Python.
 
 ## Level Two
